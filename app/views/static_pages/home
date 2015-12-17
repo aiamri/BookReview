@@ -1,0 +1,4 @@
+<h1>Home</h1>
+
+<p>Credit by: Shabrina Amri</p>
+<%= image_tag("book.jpg", :alt => "books", height: '100', width: '160') %> 

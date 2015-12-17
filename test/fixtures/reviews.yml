@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyText
+  author: MyText
+  publisher: MyText
+  publish_date: 2015-12-03
+  category: MyText
+  price: 9.99
+  review: MyText
+
+two:
+  title: MyText
+  author: MyText
+  publisher: MyText
+  publish_date: 2015-12-03
+  category: MyText
+  price: 9.99
+  review: MyText
