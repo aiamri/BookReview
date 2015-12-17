@@ -1,4 +1,4 @@
-<%= image_tag("Reading-Books.jpg", :alt => "books", height: '100', width: '160') %> 
+<%= image_tag("Reading-Books.jpg", :alt => "books", height: '300', width: '500') %> 
 
 <h1>Home</h1>
 
